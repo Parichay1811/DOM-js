@@ -11,7 +11,6 @@ const newDiv = document.createElement("div");
 
         // Style the text inside the div
         newDiv.style.color = "blue";
-        newDiv.style.fontFamily = "Arial, sans-serif";
         newDiv.style.fontWeight = "bold";
         newDiv.style.padding = "20px";
 
