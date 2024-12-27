@@ -1,11 +1,9 @@
-const newDiv = document.createElement("div");
-
-        newDiv.style.width = "300px";
-        newDiv.style.height = "150px";
-        newDiv.style.backgroundColor = "yellow";
-        const newContent = document.createTextNode("Hello, I'm a div!");
-        newDiv.appendChild(newContent);
-        newDiv.style.color = "blue";
-        newDiv.style.fontWeight = "bold";
-        newDiv.style.padding = "20px";
-        document.body.appendChild(newDiv);
+const boxTag = document.getElementById('box')
+boxTag.style.height = '200px'
+boxTag.style.width = '300px'
+boxTag.style.backgroundColor = 'yellow'
+boxTag.style.margin = '20px'
+boxTag.style.padding = '10px'
+boxTag.style.fontSize = '18px'
+boxTag.style.fontWeight = 'bold'
+boxTag.style.color = 'blue'
