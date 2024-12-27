@@ -36,10 +36,13 @@ This project demonstrates how to use JavaScript DOM manipulation methods to dyna
 
 - [Hosted Link 👉] (https://parichay1811.github.io/DOM-js/)
 
+<<<<<<< HEAD
 ## Screenshots
 
 ![App Screenshot](./assets/image.png)
 
+=======
+>>>>>>> 80c7954ba9fc76d6ae832e5a43dac1811b55c760
 
 ## Author
 
